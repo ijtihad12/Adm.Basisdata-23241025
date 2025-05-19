@@ -1,5 +1,5 @@
--- Nama : Yogi Saputra
--- NIM : 23241007
+-- Nama : Akhul ijtihad 
+-- NIM : 23241025
 -- Kelas : A
 
 -- Melihat Database dalam MySQl
