@@ -1,6 +1,6 @@
 -- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
--- Nama     : Muhammad Irawan
--- NIM      : 23241027
+-- Nama     : Akhul ijtihad
+-- NIM      : 23241025
 -- Kelas    : A
 
 -- menggunakan database
