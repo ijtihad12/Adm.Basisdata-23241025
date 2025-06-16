@@ -1,6 +1,6 @@
 -- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
--- Nama     : Aditiya Aryadani
--- NIM      : 23241015
+-- Nama     : Akhul ijtihad
+-- NIM      : 23241025
 -- Kelas    : A
 
 -- menggunakan database
