@@ -1,5 +1,5 @@
--- NAMA : YOGI SAPUTRA
--- NIM : 23241007
+-- NAMA : Akhul ijtihad
+-- NIM : 23241025
 -- Kelas : A
 -- Modul : modul 5 : JOIN/(subquery)
 
